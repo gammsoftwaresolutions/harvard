@@ -1,0 +1,43 @@
+<style>
+
+          #top {
+            font-size: 36px;
+          }
+          #middle {
+            font-size: 25px;
+          }
+          #bottom {
+            font-size: 20px;
+            }
+
+
+  h1 {
+      color: blue;
+      text-align: center;
+  }
+  h2 {
+      color: orange;
+      text-align: center;
+  }
+  p {
+      color: black;
+      text-align: center;
+  }
+
+  table {
+       text-align : center;
+       border:2px solid red;
+       width: 500px
+  }
+
+  th {
+       text-align: center;
+       border: 1px solid black;
+
+  }
+  td {
+       text-align: center;
+       border: 1px solid black;
+
+  }
+</style>
